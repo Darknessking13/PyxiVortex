@@ -6,7 +6,7 @@
 
 - **Lightweight Design**: Minimalistic yet powerful.
 - **API-Powered**: Utilizes the robust and efficient [PyxiVortex API](https://pyxilab-pyxivortex.hf.space) for handling search queries.
-- **Search Engine Demo**: A user-friendly demo showcasing the capabilities of PyxiVortex is available at [pyxivortex.run.place](https://pyxivortex.run.place).
+- **Search Engine Demo**: A user-friendly demo showcasing the capabilities of PyxiVortex is available at [pyxivortex.run.place](https://www.pyxivortex.run.place).
 
 ## Getting Started
 
