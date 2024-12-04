@@ -16,7 +16,7 @@ Base URL: [https://pyxilab-pyxivortex.hf.space](https://pyxilab-pyxivortex.hf.sp
 
 #### API Endpoints
 
-- **`/search?query=<Query>&page=<page>&type=<type of search // image, news, video etc..>&limit=<search limit>`**
+- **`/search?query=<Query>&page=<page>&search_type=<type of search // image, news, video etc..>&limit=<search limit>`**
   - **Method**: `GET`
   - **Description**: Execute a search query.
   - **Request Body** (JSON):
