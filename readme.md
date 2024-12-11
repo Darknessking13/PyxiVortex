@@ -10,7 +10,12 @@
 
 ## Getting Started
 
-### PyxiVortex API
+### PyxiVortex API is now at 0.0.2-alpha
+
+# ChangeLog:
+**1. Proper images , videos, news search**
+**2. Performance improvement **
+**3. and docs can be see at Home page [PyxiVortex API](https://pyxilab-pyxivortex.hf.space) **
 
 Base URL: [https://pyxilab-pyxivortex.hf.space](https://pyxilab-pyxivortex.hf.space)
 
