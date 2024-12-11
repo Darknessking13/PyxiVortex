@@ -13,9 +13,9 @@
 ### PyxiVortex API is now at 0.0.2-alpha
 
 # ChangeLog:
-**1. Proper images , videos, news search**
-**2. Performance improvement **
-**3. and docs can be see at Home page [PyxiVortex API](https://pyxilab-pyxivortex.hf.space) **
+- 1. Proper images, videos, news search
+* 2. Performance improvement **
+- 3. and docs can be see at Home page [PyxiVortex API](https://pyxilab-pyxivortex.hf.space) **
 **4. Now you can req upto 5k daily, before it was 1k**
 **5. Now you can do 20 rpm (Requests Per minutes)**
 
