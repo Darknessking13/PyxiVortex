@@ -14,9 +14,19 @@
 
 Base URL: [https://pyxilab-pyxivortex.hf.space](https://pyxilab-pyxivortex.hf.space)
 
-#### API Endpoints
+### Search Endpoint
+``` GET /search?q={query}&type={type}&limit={limit} ```
+# Search for content across different media types.
 
-- **`/search?query=<Query>&page=<page>&search_type=<type of search // image, news, video etc..>&limit=<search limit>`**
-  - **Method**: `GET`
-  - **Description**: Execute a search query.
-  - **Request Body** (JSON):
+`q (required): Search query string
+type: Content type (web, images, videos, news)
+limit: Number of results (default: 10)
+market: Market/language code (default: en-US)`
+
+### Suggestions Endpoint
+```GET /suggestions?q={query}&limit={limit}```
+# Get search suggestions based on partial query input.
+
+`q (required): Partial search query
+limit: Number of suggestions (default: 5)
+market: Market/language code (default: en-US)`
